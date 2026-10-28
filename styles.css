@@ -589,6 +589,22 @@ ul {
     border-bottom: 1px solid rgba(0, 210, 252, 0.2);
 }
 
+.cat-java {
+    background: rgba(248, 152, 32, 0.13);
+    color: #f8a13c;
+    border-bottom: 1px solid rgba(248, 152, 32, 0.25);
+}
+
+.cat-python {
+    background: rgba(255, 212, 59, 0.10);
+    color: #ffd43b;
+    border-bottom: 1px solid rgba(255, 212, 59, 0.22);
+}
+
+.project-category .lang-label {
+    font-weight: 800;
+}
+
 .cat-web {
     background: rgba(52, 211, 153, 0.12);
     color: #34d399;
