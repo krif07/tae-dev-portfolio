@@ -1,6 +1,6 @@
 # Cristian Dávila – Portfolio (TAE-Dev)
 
-Sitio web de portafolio personal de **Cristian Dávila**, Test Automation Engineer & Backend Developer con más de 11 años de experiencia. Presenta proyectos reales, experiencia profesional, habilidades técnicas y un formulario de contacto funcional.
+Sitio web de portafolio personal de **Cristian Dávila**, desarrollador **Java & Python** (Spring Boot, Django REST Framework) y Test Automation Engineer con más de 11 años de experiencia. Presenta proyectos reales, experiencia profesional, habilidades técnicas y un formulario de contacto funcional.
 
 ## Demo
 
@@ -11,7 +11,7 @@ Sitio web de portafolio personal de **Cristian Dávila**, Test Automation Engine
 ## Características
 
 - **Bilingüe (ES / EN):** toggle en el navbar cambia todo el contenido de la página al instante. La preferencia se guarda en `localStorage`.
-- **Sección de Proyectos con filtros:** filtrá por Automatización, Backend o Web sin recargar la página.
+- **Sección de Proyectos con filtros:** filtrá por Java, Python, Backend o Automatización sin recargar la página.
 - **Formulario de contacto funcional** vía [EmailJS](https://emailjs.com) — sin backend, sin servidor.
 - **Descarga de CV** en PDF desde el hero y desde la sección de contacto.
 - **Diseño responsive** — adaptado a móvil, tablet y desktop.
@@ -55,7 +55,7 @@ pagina-personal/
 |---------|-------------|
 | **Hero** | Presentación, foto de perfil, botones CTA y descarga de CV |
 | **Acerca de** | Resumen profesional y pilares de valor |
-| **Habilidades** | Grid de categorías: IA, Automatización, Backend, DevOps |
+| **Habilidades** | Grid de categorías: Ecosistema Java, Ecosistema Python, Automatización, DevOps |
 | **Experiencia** | Timeline con 7 posiciones (2011 – presente) |
 | **Educación** | Ingeniería de Sistemas – UTP |
 | **Proyectos** | 8 proyectos reales con filtros por categoría |
